@@ -14,4 +14,10 @@ public class App {
     public static void div(int a, int b) {
         return a - b;
     }
+
+    public static void div(int a, int b) {
+        return a - b;
+    }
+
+
 }
